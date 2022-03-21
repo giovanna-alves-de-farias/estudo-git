@@ -1,3 +1,2 @@
 Olá! Isso é um teste!
 Olá novamente! Essa é a linha 2!
-Testando o branch!
