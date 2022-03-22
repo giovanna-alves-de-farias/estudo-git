@@ -1,2 +1,2 @@
-Olá! Isso é um teste!
+Olá! Estamos estudando Git!
 Olá novamente! Essa é a linha 2! Novo teste!
